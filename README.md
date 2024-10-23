@@ -1,4 +1,4 @@
-# -Crop-Pest-and-Disease-Recognition-Based-on-Improved-ConvNeXt-and-Swin-Transformer
+# Crop-Pest-and-Disease-Recognition-Based-on-Improved-ConvNeXt-and-Swin-Transformer
 This repository implements the method proposed in the paper "Crop Pest and Disease Recognition Based on Improved ConvNeXt and Swin Transformer". The project combines ConvNeXt and Swin Transformer architectures with the CAFM fusion module to enhance the accuracy of pest and disease recognition. The Mixup technique is used for data augmentation, and Equalization Loss is applied to address class imbalance in the IP102 dataset.
 ## Project Overview
 The model leverages ConvNeXt's ability to capture local features and Swin Transformer's strength in global feature extraction. The CAFM fusion module enhances the feature fusion process, leading to improved pest and disease classification performance.

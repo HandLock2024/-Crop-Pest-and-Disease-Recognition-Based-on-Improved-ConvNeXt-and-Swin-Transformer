@@ -11,7 +11,7 @@ Equalization Loss to handle class imbalance issues.
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/HandLock2024/-Crop-Pest-and-Disease-Recognition-Based-on-Improved-ConvNeXt-and-Swin-Transformer.git
+   git clone https://github.com/HandLock2024/ConvNeXt-and-Swin-Transformer-with-CAFM.git
    cd crop-pest-disease-recognition
 2. Create a virtual environment (optional but recommended):   
    ```bash
